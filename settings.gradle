@@ -1,0 +1,3 @@
+rootProject.name = "SearchBarModel"
+include ':app'
+include ':SearchBar'

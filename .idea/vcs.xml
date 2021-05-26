@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AnimateUtils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyContacts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PersianRadialTimePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PhotoApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RadialTimePickerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SportShopApplication" vcs="Git" />
+  </component>
+</project>
